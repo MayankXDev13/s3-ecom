@@ -1,0 +1,9 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"20.269\"}","timestamp":"2025-09-17T14:30:23.692Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"3.390\"}","timestamp":"2025-09-17T14:31:42.768Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"3.774\"}","timestamp":"2025-09-17T14:32:16.594Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"25.763\"}","timestamp":"2025-09-17T16:12:03.527Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"3.487\"}","timestamp":"2025-09-17T16:12:57.803Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"2.594\"}","timestamp":"2025-09-17T16:15:18.446Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"108.455\"}","timestamp":"2025-09-17T16:16:34.484Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"1.791\"}","timestamp":"2025-09-17T16:19:47.668Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"155.437\"}","timestamp":"2025-09-17T16:19:51.993Z"}
