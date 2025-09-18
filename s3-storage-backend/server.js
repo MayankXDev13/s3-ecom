@@ -67,7 +67,7 @@ app.post("/get-presigned-url", async (req, res) => {
 app.post("/products", async (req, res) => {
   const { name, description, price, filename } = req.body;
 
-  console.log(name, description, price, filename);
+
   
 
   // TODO: Validate the request using zod
@@ -77,8 +77,7 @@ app.post("/products", async (req, res) => {
     return;
   }
 
-  //   Save to database
-  // todo: handle error
+
 
   const product = await ProductModel.create({
     name,
@@ -91,6 +90,14 @@ app.post("/products", async (req, res) => {
 
   res.json({ message: "success" });
 });
+
+
+
+app.get("/products", async (req, res) => {
+  const product = await ProductModel.find()
+  res.json(product)
+
+})
 
 app.listen(PORT, () => {
   connectToDB();

@@ -7,3 +7,13 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"108.455\"}","timestamp":"2025-09-17T16:16:34.484Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"1.791\"}","timestamp":"2025-09-17T16:19:47.668Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"155.437\"}","timestamp":"2025-09-17T16:19:51.993Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/products\",\"status\":\"404\",\"responseTime\":\"2.201\"}","timestamp":"2025-09-18T06:52:25.150Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"77.814\"}","timestamp":"2025-09-18T06:52:57.297Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"68.352\"}","timestamp":"2025-09-18T06:55:09.244Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"20.719\"}","timestamp":"2025-09-18T06:55:44.316Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"197.935\"}","timestamp":"2025-09-18T06:55:49.537Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"26.078\"}","timestamp":"2025-09-18T06:57:02.389Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"412.331\"}","timestamp":"2025-09-18T06:57:08.335Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-presigned-url\",\"status\":\"200\",\"responseTime\":\"2.120\"}","timestamp":"2025-09-18T06:57:25.415Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"104.759\"}","timestamp":"2025-09-18T06:57:30.211Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/products\",\"status\":\"200\",\"responseTime\":\"69.734\"}","timestamp":"2025-09-18T06:57:46.940Z"}
